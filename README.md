@@ -1,5 +1,8 @@
 # GAN
 GAN implementation on MNIST Dataset
+
+
+
 Generative Adversarial Networks (GANs) can be broken down into three parts:
 
 Generative: To learn a generative model, which describes how data is generated in terms of a probabilistic model.
